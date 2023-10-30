@@ -1,0 +1,48 @@
+
+* {
+    text-align: center;
+}
+
+.bmicalculator{
+    padding-top: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 90px;  
+}
+
+input{
+    border-radius: 5px;
+}
+
+#kg{
+padding-bottom: 20px; 
+}
+
+#cm {
+padding-bottom: 30px;
+}
+
+.bmi-container{
+ padding-top: 50px;
+ padding-bottom: 30px;
+ border-radius: 5px;
+ margin-left: 80px;
+ margin-right: 50px;
+ background-color: rgb(116, 113, 113);
+}
+
+button
+{ 
+    width:100px;
+    margin: 50px !important;
+}
+
+#sonucLabel{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#durum{
+    background-color: rgb(90, 192, 59);
+    font-weight: bold;
+}
